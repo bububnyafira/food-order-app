@@ -1,0 +1,34 @@
+[
+  { 
+    "categoryName": "Main Course", 
+    "name": "Spicy Spaghetti", 
+    "description": "Delicious spaghetti with a spicy marinara sauce.", 
+    "price": 50.000, 
+    "rating": 4.5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pasta_Puttanesca.jpg/375px-Pasta_Puttanesca.jpg"
+  },
+  { 
+    "categoryName": "Snacks", 
+    "name": "French Fries", 
+    "description": "Crispy golden french fries.", 
+    "price": 20.000, 
+    "rating": 4.2,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/French_Fries.JPG/375px-French_Fries.JPG"
+  },
+  { 
+    "categoryName": "Beverages", 
+    "name": "Lemonade", 
+    "description": "Refreshing lemonade made from fresh lemons.", 
+    "price": 15.000, 
+    "rating": 4.3,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lemonade_-_27682817724.jpg/215px-Lemonade_-_27682817724.jpg"
+  },
+  { 
+    "categoryName": "Desserts", 
+    "name": "Chocolate Cake", 
+    "description": "Decadent chocolate cake with layers of rich frosting.", 
+    "price": 30.000, 
+    "rating": 4.9,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ChocolateTruffleCakeIdeal01.JPG/330px-ChocolateTruffleCakeIdeal01.JPG"
+  }
+]

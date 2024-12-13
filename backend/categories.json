@@ -1,0 +1,7 @@
+[
+    { "name": "Main Course", "description": "Main dishes including pasta, rice, and proteins." },
+    { "name": "Snacks", "description": "Light bites and appetizers." },
+    { "name": "Beverages", "description": "Drinks including soft drinks, juices, and coffee." },
+    { "name": "Desserts", "description": "Sweet treats and desserts." }
+  ]
+  
